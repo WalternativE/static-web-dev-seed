@@ -1,0 +1,13 @@
+{
+  "name": "static-web-dev-seed",
+  "version": "0.1.0",
+  "description": "Seed project for simple HTML/CSS development",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "WalternativE <gregor.beyerle@gmail.com>",
+  "devDependencies": {
+    "static-server": "^2.2.1"
+  }
+}
